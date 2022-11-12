@@ -8,10 +8,10 @@
 </div>
 
 <div align="center">
-<a href="https://pedrogomespeixoto.000webhostapp.com/" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg"</a>
 <a href="https://www.linkedin.com/in/javadevpgp/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 <a href="https://leetcode.com/Peixoto00/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"</a>
 <a href="https://www.instagram.com/pedro.g.peixoto/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://pedrogomespeixoto.000webhostapp.com/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"</a>
 </div> 
 
 ### 🛠 &nbsp;Languages and Tools :
