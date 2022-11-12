@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2000&pause=1250&center=true&width=1000&lines=Hello%2C+My+name+is+Pedro+Gomes;I'm+a+Software+Enginner;Back-End+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&height=70&duration=2000&color=00F7EC&pause=1250&vCenter=false&center=true&width=1000&lines=Hello%2C+My+name+is+Pedro+Gomes;I'm+a+Software+Enginner;Back-End+Developer)](https://git.io/typing-svg)
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="90">
 <!--
 **RelativeDev/RelativeDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
